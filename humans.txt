@@ -1,0 +1,19 @@
+/* TEAM */
+	Advisor: Jesús Lara Giménez
+	Contact:  jesuslarag [at] gmail.com
+	Twitter: @phenobarbital
+	From:Guarenas, Portuguesa, Venezuela
+
+	Web developer: Alexander Salas
+	Contact:  a.salas [at] ieee.org
+	Twitter: @ajsb85
+	From:San Diego, Carabobo, Venezuela
+
+/* THANKS */
+		
+
+/* SITE */
+	Last update:2014/04/28
+	Language: Español
+	Doctype:HTML5
+	IDE: Brackets, Notepad++
