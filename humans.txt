@@ -1,5 +1,5 @@
 /* TEAM */
-	Advisor: Jesús Lara Giménez
+	Advisor: JesÃºs Lara GimÃ©nez
 	Contact:  jesuslarag [at] gmail.com
 	Twitter: @phenobarbital
 	From:Guarenas, Portuguesa, Venezuela
@@ -14,6 +14,6 @@
 
 /* SITE */
 	Last update:2014/04/28
-	Language: Español
+	Language: EspaÃ±ol
 	Doctype:HTML5
 	IDE: Brackets, Notepad++
